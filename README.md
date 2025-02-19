@@ -14,5 +14,9 @@ Join the **Codemunissim** movement and help us reshape how we think about coding
 
 ![Codemunissim Logo](https://github.com/BatResy/Codemunissim/blob/main/CMNS.png)
 
+## Code of Conduct
+By participating in **Codemunissim**, you agree to follow our [Code of Conduct](https://github.com/BatResy/Codemunissim/blob/main/CoC.md).
+
+
 # Codemunissim
 **Your code? Nah, OUR code.**
