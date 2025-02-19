@@ -57,7 +57,7 @@ By participating in **Codemunissim**, you agree to follow our [Code of Conduct](
 
 ## 📌 License
 
-This project is licensed under the terms of the [MIT License](LICENSE.md).
+This project is licensed under the terms of the [MIT License](https://github.com/BatResy/Codemunissim/blob/main/LICENSE).
 
 ## 🌍 Connect with Us
 
