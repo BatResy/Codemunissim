@@ -11,3 +11,8 @@ At Codemunissim, we celebrate the spirit of open-source collaboration. Whether y
 - **Respect & Recognition**: Collaboration is key. Credit goes to the community, and every contribution, no matter the size, matters.
 
 Join the **Codemunissim** movement and help us reshape how we think about coding. It’s not about who writes the code—it’s about *how we create together*. Let’s build something incredible, *together*.
+
+![Codemunissim Logo](https://github.com/BatResy/Codemunissim/blob/main/CMNS.png)
+
+# Codemunissim
+**Your code? Nah, OUR code.**
