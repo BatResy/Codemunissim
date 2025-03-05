@@ -27,7 +27,7 @@ Whether you're new to coding or an experienced developer, you’re invited to jo
 1. **Fork the repository**: Start by forking the repository to your GitHub account.
 2. **Clone your fork**: Use the following command to clone your fork locally:
     ```bash
-    git clone https://github.com/your-username/Codemunissim.git
+    git clone https://github.com/BatResy/Codemunissim.git
     ```
 3. **Create a branch**: Make sure you create a branch for your work:
     ```bash
